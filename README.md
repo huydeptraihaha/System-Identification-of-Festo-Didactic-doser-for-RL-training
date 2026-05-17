@@ -1,5 +1,5 @@
 # System-Identification-of-Festo-Didactic-doser-for-RL-training
-ARX/NLARX system identification with MATLAB and Python, then DDPG and TD3 training on the model. Finally Sim-2-real,model is running on VGU-MST festo didactic doser system
+Development of a Neural Network-based digital twin (NLARX) for a smart water tank system. Features Siemens PLC integration, MATLAB system identification, and PyTorch NLARX modeling to serve as a simulation environment for training Reinforcement Learning controllers, DDPG and TD3 controllers are trained on the model. Finally Sim-2-real,model is running on VGU-MST festo didactic doser system
 
 1. EXTRACT ALL RAR FILES
    
